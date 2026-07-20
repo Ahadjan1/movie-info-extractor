@@ -36,6 +36,8 @@ uv venv
 .venv\Scripts\activate
 uv pip install -r requirements.txt
 streamlit run movie_extractor_combined.py
+You'll need a free Mistral API key — add it to a `.env` file:
+
 
 ## 👤 Author
 
@@ -44,4 +46,3 @@ streamlit run movie_extractor_combined.py
 - LinkedIn: [Ahad Jan](https://www.linkedin.com/in/ahad-jan-b8ba872b4/)
 ```
 
-You'll need a free Mistral API key — add it to a `.env` file:
